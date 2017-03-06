@@ -1,0 +1,24 @@
+﻿@using TopBands.Models;
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TopBands Index</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="~/css/style.css">
+</head>
+<body>
+    <h1>Welcome to the TopBands website in ASP.NET!</h1>
+    <nav>
+        <ul>
+            <li><a href="../bands/index">Home</a></li>
+        </ul>
+    </nav>
+    <!-- Iterate all the bands through the Bands-array and write out a link based on the bands' ids and names-->
+    <ul>
+        @foreach(Band band in ViewBag.Bands)
+        {
+            <li><a href="../bands/details/@band.Id">@band.Name</a></li>
+        }
+    </ul>
+</body>
+</html>

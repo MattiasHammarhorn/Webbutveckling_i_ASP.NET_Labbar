@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>TopBands Details</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="~/css/style.css">
+</head>
+<body>
+    <h1>@ViewBag.Band.Name</h1>
+    <nav>
+        <ul>
+            <li><a href="../../bands/index">Home</a></li>
+        </ul>
+    </nav>
+        <!-- Link an image that belongs to the band, then write out it's name and description
+        and then link a reference to the bands album site by linking it to the Albums-action
+        by referencing it with the band's id-->
+        <div>
+          <img src="~/img/@(ViewBag.Band.Name)Pic.jpg" width="800" height="450">
+          <p>@ViewBag.Band.Description</p>
+        </div>
+        <p><a href="../../bands/albums/@ViewBag.Band.Id">Albums</a></p>
+</body>
+</html>

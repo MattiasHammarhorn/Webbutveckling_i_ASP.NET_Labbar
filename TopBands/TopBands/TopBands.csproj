@@ -1,0 +1,85 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <PackageTargetFallback>portable-net45+win8</PackageTargetFallback>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\css\style.css" />
+    <Content Include="wwwroot\img\bg.jpg" />
+    <Content Include="wwwroot\img\Deep Purple1.jpg" />
+    <Content Include="wwwroot\img\Deep Purple10.jpg" />
+    <Content Include="wwwroot\img\Deep Purple11.jpg" />
+    <Content Include="wwwroot\img\Deep Purple12.jpg" />
+    <Content Include="wwwroot\img\Deep Purple13.jpg" />
+    <Content Include="wwwroot\img\Deep Purple14.jpg" />
+    <Content Include="wwwroot\img\Deep Purple15.jpg" />
+    <Content Include="wwwroot\img\Deep Purple16.jpg" />
+    <Content Include="wwwroot\img\Deep Purple17.jpg" />
+    <Content Include="wwwroot\img\Deep Purple18.jpg" />
+    <Content Include="wwwroot\img\Deep Purple19.jpg" />
+    <Content Include="wwwroot\img\Deep Purple2.jpg" />
+    <Content Include="wwwroot\img\Deep Purple20.jpg" />
+    <Content Include="wwwroot\img\Deep Purple3.jpg" />
+    <Content Include="wwwroot\img\Deep Purple4.jpg" />
+    <Content Include="wwwroot\img\Deep Purple5.jpg" />
+    <Content Include="wwwroot\img\Deep Purple6.jpg" />
+    <Content Include="wwwroot\img\Deep Purple7.jpg" />
+    <Content Include="wwwroot\img\Deep Purple8.jpg" />
+    <Content Include="wwwroot\img\Deep Purple9.jpg" />
+    <Content Include="wwwroot\img\Deep PurplePic.jpg" />
+    <Content Include="wwwroot\img\SID1.jpg" />
+    <Content Include="wwwroot\img\Sid10.jpg" />
+    <Content Include="wwwroot\img\Sid11.jpg" />
+    <Content Include="wwwroot\img\Sid12.jpg" />
+    <Content Include="wwwroot\img\Sid2.jpg" />
+    <Content Include="wwwroot\img\Sid3.jpg" />
+    <Content Include="wwwroot\img\Sid4.jpg" />
+    <Content Include="wwwroot\img\Sid5.jpg" />
+    <Content Include="wwwroot\img\Sid6.jpg" />
+    <Content Include="wwwroot\img\Sid7.jpg" />
+    <Content Include="wwwroot\img\Sid8.jpg" />
+    <Content Include="wwwroot\img\Sid9.jpg" />
+    <Content Include="wwwroot\img\SidPic.jpg" />
+    <Content Include="wwwroot\img\sid_1.jpg" />
+    <Content Include="wwwroot\img\sid_10.jpg" />
+    <Content Include="wwwroot\img\sid_11.jpg" />
+    <Content Include="wwwroot\img\sid_12.jpg" />
+    <Content Include="wwwroot\img\sid_2.jpg" />
+    <Content Include="wwwroot\img\sid_3.jpg" />
+    <Content Include="wwwroot\img\sid_4.jpg" />
+    <Content Include="wwwroot\img\sid_5.jpg" />
+    <Content Include="wwwroot\img\sid_6.jpg" />
+    <Content Include="wwwroot\img\sid_7.jpg" />
+    <Content Include="wwwroot\img\sid_8.jpg" />
+    <Content Include="wwwroot\img\sid_9.jpg" />
+    <Content Include="wwwroot\img\sid_pic.jpg" />
+    <Content Include="wwwroot\img\Thin Lizzy1.jpg" />
+    <Content Include="wwwroot\img\Thin Lizzy10.jpg" />
+    <Content Include="wwwroot\img\Thin Lizzy11.jpg" />
+    <Content Include="wwwroot\img\Thin Lizzy12.jpg" />
+    <Content Include="wwwroot\img\Thin Lizzy2.jpg" />
+    <Content Include="wwwroot\img\Thin Lizzy3.jpg" />
+    <Content Include="wwwroot\img\Thin Lizzy4.jpg" />
+    <Content Include="wwwroot\img\Thin Lizzy5.jpg" />
+    <Content Include="wwwroot\img\Thin Lizzy6.jpg" />
+    <Content Include="wwwroot\img\Thin Lizzy7.jpg" />
+    <Content Include="wwwroot\img\Thin Lizzy8.jpg" />
+    <Content Include="wwwroot\img\Thin Lizzy9.jpg" />
+    <Content Include="wwwroot\img\Thin LizzyPic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore" Version="1.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="1.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="1.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="1.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="1.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="1.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="1.1.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="1.1.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="1.1.0-msbuild3-final" />
+  </ItemGroup>
+
+</Project>

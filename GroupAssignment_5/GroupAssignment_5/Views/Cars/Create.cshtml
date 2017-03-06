@@ -1,0 +1,28 @@
+﻿@model CarsCreateVM
+<h1>GroupAssignment_5 Create</h1>
+    <form asp-action="create" asp-controller="cars">
+        <label asp-for="Brand"></label>
+        <br>
+        <input asp-for="Brand">
+        <br>
+        <span asp-validation-for="Brand"></span>
+        <br>
+        <label asp-for="Doors"></label>
+        <br>
+        <input asp-for="Doors">
+        <br>
+        <span asp-validation-for="Doors"></span>
+        <br>
+        <label asp-for="TopSpeed"></label>
+        <br>
+        <input asp-for="TopSpeed">
+        <br>
+        <span asp-validation-for="TopSpeed"></span>
+        <br>
+        <input type="submit" value="Create car">
+    </form>
+@section Validation{ 
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.0.min.js"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.14.0/jquery.validate.min.js"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/mvc/5.2.3/jquery.validate.unobtrusive.min.js"></script>
+}

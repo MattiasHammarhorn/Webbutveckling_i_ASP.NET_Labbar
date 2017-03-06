@@ -1,0 +1,16 @@
+﻿@model Northwind.Models.CustomersIndexVM[]
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Customers</title>
+</head>
+<body>
+    <h1>Customers</h1>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>@item.CompanyName</li>
+        }
+    </ul>
+</body>
+</html>

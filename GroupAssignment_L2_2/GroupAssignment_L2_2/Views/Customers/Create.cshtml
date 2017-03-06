@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Company Create</title>
+</head>
+<body>
+    <h1>Company Create</h1>
+    <form action="/customers/create" method="post">
+        <label>Name of Company</label>
+        <br>
+        <input type="text" name="companyname">
+        <br>
+        <label>Number of Employees</label>
+        <br>
+        <input type="text" name="employeecount">
+        <br>
+        <label>Country</label>
+        <br>
+        <input type="text" name="CompanyAddress.country">
+        <br>
+        <label>City</label>
+        <br>
+        <input type="text" name="CompanyAddress.city">
+        <br>
+        <label>Street</label>
+        <br>
+        <input type="text" name="CompanyAddress.street">
+        <br>
+        <input type="submit" value="Add Company">
+    </form>
+</body>
+</html>

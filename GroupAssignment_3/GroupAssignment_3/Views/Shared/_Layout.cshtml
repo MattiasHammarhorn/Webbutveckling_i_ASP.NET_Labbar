@@ -1,0 +1,21 @@
+﻿@addTagHelper"*, Microsoft.AspNetCore.Mvc.TagHelpers"
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <h1>Acme</h1>
+    <p>People</p>
+    <a asp-action="create" asp-controller="people">Add person</a>
+    <a asp-action="index" asp-controller="people">Show all person</a>
+    <div>
+        @RenderBody()
+    </div>
+    <footer>
+        &copy; Acme 2017
+    </footer>
+</body>
+</html>

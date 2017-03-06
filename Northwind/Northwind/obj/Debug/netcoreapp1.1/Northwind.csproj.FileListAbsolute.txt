@@ -1,0 +1,22 @@
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Northwind\Northwind\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Northwind\Northwind\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Northwind\Northwind\bin\Debug\netcoreapp1.1\Northwind.deps.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Northwind\Northwind\bin\Debug\netcoreapp1.1\Northwind.runtimeconfig.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Northwind\Northwind\bin\Debug\netcoreapp1.1\Northwind.runtimeconfig.dev.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Northwind\Northwind\bin\Debug\netcoreapp1.1\Northwind.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Northwind\Northwind\obj\Debug\netcoreapp1.1\Northwind.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Northwind\Northwind\obj\Debug\netcoreapp1.1\Northwind.AssemblyInfo.cs
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Northwind\Northwind\bin\Debug\netcoreapp1.1\Northwind.pdb
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Northwind\Northwind\obj\Debug\netcoreapp1.1\Northwind.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Northwind\Northwind\obj\Debug\netcoreapp1.1\Northwind.pdb
+C:\Users\Roger och Stina\Desktop\Northwind\Northwind\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Roger och Stina\Desktop\Northwind\Northwind\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Roger och Stina\Desktop\Northwind\Northwind\bin\Debug\netcoreapp1.1\Northwind.deps.json
+C:\Users\Roger och Stina\Desktop\Northwind\Northwind\bin\Debug\netcoreapp1.1\Northwind.runtimeconfig.json
+C:\Users\Roger och Stina\Desktop\Northwind\Northwind\bin\Debug\netcoreapp1.1\Northwind.runtimeconfig.dev.json
+C:\Users\Roger och Stina\Desktop\Northwind\Northwind\bin\Debug\netcoreapp1.1\Northwind.dll
+C:\Users\Roger och Stina\Desktop\Northwind\Northwind\bin\Debug\netcoreapp1.1\Northwind.pdb
+C:\Users\Roger och Stina\Desktop\Northwind\Northwind\obj\Debug\netcoreapp1.1\Northwind.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Northwind\Northwind\obj\Debug\netcoreapp1.1\Northwind.AssemblyInfo.cs
+C:\Users\Roger och Stina\Desktop\Northwind\Northwind\obj\Debug\netcoreapp1.1\Northwind.dll
+C:\Users\Roger och Stina\Desktop\Northwind\Northwind\obj\Debug\netcoreapp1.1\Northwind.pdb

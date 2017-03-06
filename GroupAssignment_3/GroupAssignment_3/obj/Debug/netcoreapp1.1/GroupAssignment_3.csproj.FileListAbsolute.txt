@@ -1,0 +1,11 @@
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_3\GroupAssignment_3\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_3\GroupAssignment_3\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_3\GroupAssignment_3\bin\Debug\netcoreapp1.1\GroupAssignment_3.deps.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_3\GroupAssignment_3\bin\Debug\netcoreapp1.1\GroupAssignment_3.runtimeconfig.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_3\GroupAssignment_3\bin\Debug\netcoreapp1.1\GroupAssignment_3.runtimeconfig.dev.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_3\GroupAssignment_3\bin\Debug\netcoreapp1.1\GroupAssignment_3.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_3\GroupAssignment_3\obj\Debug\netcoreapp1.1\GroupAssignment_3.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_3\GroupAssignment_3\obj\Debug\netcoreapp1.1\GroupAssignment_3.AssemblyInfo.cs
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_3\GroupAssignment_3\bin\Debug\netcoreapp1.1\GroupAssignment_3.pdb
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_3\GroupAssignment_3\obj\Debug\netcoreapp1.1\GroupAssignment_3.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_3\GroupAssignment_3\obj\Debug\netcoreapp1.1\GroupAssignment_3.pdb

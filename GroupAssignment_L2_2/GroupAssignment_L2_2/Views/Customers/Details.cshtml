@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Customers Details</title>
+</head>
+<body>
+    <h1>Customers Details</h1>
+    <h3>@ViewBag.Customer.CompanyName</h3>
+    <p>Company Id Nr: @ViewBag.Customer.Id</p>
+    <p>Number of Employees: @ViewBag.Customer.EmployeeCount</p>
+    <p>Situated in: @ViewBag.Customer.CompanyAddress.Street, @ViewBag.Customer.CompanyAddress.City, @ViewBag.Customer.CompanyAddress.Country</p>
+    <form action="/customers/remove/@ViewBag.Customer.Id" method="post">
+        <input type="submit" value="Delete Customer">
+    </form>
+</body>
+</html>

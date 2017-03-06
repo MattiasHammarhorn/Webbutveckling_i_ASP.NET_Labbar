@@ -1,0 +1,45 @@
+﻿body {
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+    opacity: 0.8;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #ffffff;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    opacity: 0.5;
+}
+
+div p, img {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ffffff;
+}
+
+table, th, td {
+    border: 1px solid black;
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #ffffff;
+}

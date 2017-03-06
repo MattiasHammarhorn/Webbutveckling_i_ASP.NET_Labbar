@@ -1,0 +1,21 @@
+﻿@using GroupAssignment_L2_2.Models;
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Company Index</title>
+</head>
+<body>
+    <h1>Company Index</h1>
+    <ul>
+        @foreach (Customer customer in ViewBag.Customers)
+        {
+            <li>
+                <h3>@customer.Id. @customer.CompanyName</h3>
+                <p>Number of Employees: @customer.EmployeeCount</p>
+                <p>@customer.CompanyAddress.Street, @customer.CompanyAddress.City, @customer.CompanyAddress.Country</p>
+                <a href="/customers/details/@customer.Id">-Learn more-</a>
+            </li>
+        }
+    </ul>
+</body>
+</html>

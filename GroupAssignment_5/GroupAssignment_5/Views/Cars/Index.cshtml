@@ -1,0 +1,15 @@
+﻿@model CarsIndexVM[]
+<h1>GroupAssignment_5 Index</h1>
+<ul>
+    @foreach (var car in Model)
+    {
+        if (car.ShowAsFast)
+        {
+            <li style="color:blue">@car.Brand @car.Doors @car.TopSpeed</li>
+        }
+        else
+        {
+            <li>@car.Brand @car.Doors @car.TopSpeed</li>
+        }
+    }
+</ul>

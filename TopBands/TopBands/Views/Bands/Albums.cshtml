@@ -1,0 +1,36 @@
+﻿@using TopBands.Models;
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TopBands Albums</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="~/css/style.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="../../bands/index">Index</a></li>
+        </ul>
+    </nav>
+    <h1>@ViewBag.Band.Name Albums</h1>
+    <table style="margin-left:auto; margin-right:auto;">
+        <tr>
+            <th>Name</th>
+            <th>Year of Release</th>
+            <th>Label</th>
+            <th>Album Artwork</th>
+        </tr>
+        <!--Iterate through every album and write out each album's name, year, label and image
+        by using the Band.Albums-list and then searching for the image folder and the albums URL-prop-->
+        @foreach(Album album in ViewBag.Band.Albums)
+        {
+            <tr style="vertical-align: middle">
+                <td>@album.Name</td>
+                <td>@album.Year</td>
+                <td>@album.Label</td>
+                <td><img width="200" height="200" src="~/img/@(album.Url).jpg"></td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <ul>
+        <li asp-action="index" asp-controller="cars">Index</li>
+        <li asp-action="create" asp-controller="cars">Create</li>
+    </ul>
+    <div>
+        @RenderBody()
+    </div>
+    <footer>
+        Next Level Coding AB | &copy; Copyright 2017 | Tel: <a href="tel:XX XXX XXX XX">XX XXX XXX XX</a> | Email: <a href="mailto:info@nextlevelcoding.se">info@nextlevelcoding.se</a>
+    </footer>
+    @RenderSection("Validation", false)
+</body>
+</html>
