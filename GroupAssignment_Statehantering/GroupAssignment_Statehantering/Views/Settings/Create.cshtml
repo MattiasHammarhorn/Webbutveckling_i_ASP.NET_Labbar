@@ -1,0 +1,25 @@
+﻿@model GroupAssignment_Statehantering.Models.SettingsCreateVM
+@addTagHelper"*, Microsoft.AspNetCore.Mvc.TagHelpers"
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <form asp-action="create" asp-controller="settings">
+        <label asp-for="SupportEmail"></label>
+        <br />
+        <input asp-for="SupportEmail" />
+        <br />
+        <span asp-validation-for="SupportEmail"></span>
+        <br />
+        <label asp-for="CompanyName"></label>
+        <br />
+        <input asp-for="CompanyName" />
+        <br />
+        <span asp-validation-for="CompanyName"></span>
+        <br />
+        <input type="submit" value="Save" />
+    </form>
+</body>
+</html>

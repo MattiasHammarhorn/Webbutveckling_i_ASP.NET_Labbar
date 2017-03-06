@@ -1,0 +1,11 @@
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_Statehantering\GroupAssignment_Statehantering\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_Statehantering\GroupAssignment_Statehantering\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_Statehantering\GroupAssignment_Statehantering\bin\Debug\netcoreapp1.1\GroupAssignment_Statehantering.deps.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_Statehantering\GroupAssignment_Statehantering\bin\Debug\netcoreapp1.1\GroupAssignment_Statehantering.runtimeconfig.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_Statehantering\GroupAssignment_Statehantering\bin\Debug\netcoreapp1.1\GroupAssignment_Statehantering.runtimeconfig.dev.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_Statehantering\GroupAssignment_Statehantering\bin\Debug\netcoreapp1.1\GroupAssignment_Statehantering.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_Statehantering\GroupAssignment_Statehantering\obj\Debug\netcoreapp1.1\GroupAssignment_Statehantering.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_Statehantering\GroupAssignment_Statehantering\obj\Debug\netcoreapp1.1\GroupAssignment_Statehantering.AssemblyInfo.cs
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_Statehantering\GroupAssignment_Statehantering\bin\Debug\netcoreapp1.1\GroupAssignment_Statehantering.pdb
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_Statehantering\GroupAssignment_Statehantering\obj\Debug\netcoreapp1.1\GroupAssignment_Statehantering.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_Statehantering\GroupAssignment_Statehantering\obj\Debug\netcoreapp1.1\GroupAssignment_Statehantering.pdb
