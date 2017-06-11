@@ -1,0 +1,13 @@
+﻿@model BandsDetailsVM
+<h1>@Model.Name</h1>
+<div>
+    <p>@Model.Description</p>
+    <ul>
+        @foreach (var item in Model.Albums)
+        {
+            <li>@item.Name</li>
+            <li>Year of Release: @item.YearOfRelease</li>
+            <br />
+        }
+    </ul>
+</div>

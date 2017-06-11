@@ -1,0 +1,22 @@
+﻿@model ComputersEditVM
+<form asp-controller="computers" asp-action="edit">
+    <label asp-for="Manufacturer"></label>
+    <br />
+    <input asp-for="Manufacturer" />
+    <br />
+    <span asp-validation-for="Manufacturer"></span>
+    <br />
+    <label asp-for="Price"></label>
+    <br />
+    <input asp-for="Price" />
+    <br />
+    <span asp-validation-for="Price"></span>
+    <br />
+    <br />
+    <input type="submit" value="Submit" />
+</form>
+@section Validation{
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.0.min.js"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.14.0/jquery.validate.min.js"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/mvc/5.2.3/jquery.validate.unobtrusive.min.js"></script>
+}

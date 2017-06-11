@@ -1,0 +1,11 @@
+﻿@model IEnumerable<BandsIndexVM>
+@{
+    ViewBag.Title = "Bands";
+}
+<h3>Bands</h3>
+<ul>
+    @foreach (var band in Model)
+    {
+        <li>@Html.Partial("BandBox", band)</li>
+    }
+</ul>

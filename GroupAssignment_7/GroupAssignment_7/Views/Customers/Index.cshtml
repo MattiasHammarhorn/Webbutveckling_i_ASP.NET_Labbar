@@ -1,0 +1,19 @@
+﻿<h1>Assignment 7-1</h1>
+<div>
+    <input id="btnGetAllCustomers" type="button" value="GetAllCustomers">
+    <ul>
+        @foreach(var customer in @Model)
+        {
+            <li customer-id="@customer.Id" customer-name="@customer.Name" customer-city="@customer.City">@customer.Name</li>
+        }
+    </ul>
+    <div id="JsonDiv"></div>
+    <div id="Test"></div>
+</div>
+
+@section scripts
+{
+<script src="~/Scripts/jquery-3.1.0.min.js"></script>
+<script src="~/Scripts/JavaScript.js">
+</script>
+}

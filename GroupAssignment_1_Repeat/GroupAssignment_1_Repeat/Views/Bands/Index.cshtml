@@ -1,0 +1,11 @@
+﻿@model BandsIndexVM[]
+<h1>Bands Index</h1>
+<div>
+    @foreach(var item in Model)
+    {
+        <ul>
+            <li><a asp-action="bands"asp-route-id="@item">@item.Name</a></li>
+            <br />
+        </ul>
+    }
+</div>

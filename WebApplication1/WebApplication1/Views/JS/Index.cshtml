@@ -1,0 +1,37 @@
+﻿<input id="btn" type="button" value="Click Me">
+<input id="btnGetHtml" type="button" value="Get HTML">
+<input id="btnGetJson" type="button" value="Get JSON">
+<div id="divResult"></div>
+
+@section scripts
+{
+    <script src="~/Scripts/jquery-3.1.0.min.js"></script>
+    <script>
+        var divResult = $("#divResult");
+
+        $("#btn").click(function () {
+            divResult.html("Test");
+        });
+
+        $("#btnGetHtml").click(function () {
+            $.ajax({
+                url: "/js/GetBandHtml",
+                type: "GET",
+                success: function (html)
+                {
+                    divResult.html(html);
+                }
+            })
+        });
+
+        $("#btnGetJson").click(function () {
+            $.ajax({
+                url: "/js/GetBandJson",
+                type: "GET",
+                success: function (json) {
+                    divResult.html("<b>Name</b>: " + json.name);
+                }
+            })
+        });
+    </script>
+}

@@ -1,0 +1,9 @@
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\TentaPractice\TentaPractice\bin\Debug\netcoreapp1.1\TentaPractice.deps.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\TentaPractice\TentaPractice\bin\Debug\netcoreapp1.1\TentaPractice.runtimeconfig.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\TentaPractice\TentaPractice\bin\Debug\netcoreapp1.1\TentaPractice.runtimeconfig.dev.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\TentaPractice\TentaPractice\bin\Debug\netcoreapp1.1\TentaPractice.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\TentaPractice\TentaPractice\bin\Debug\netcoreapp1.1\TentaPractice.pdb
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\TentaPractice\TentaPractice\obj\Debug\netcoreapp1.1\TentaPractice.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\TentaPractice\TentaPractice\obj\Debug\netcoreapp1.1\TentaPractice.AssemblyInfo.cs
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\TentaPractice\TentaPractice\obj\Debug\netcoreapp1.1\TentaPractice.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\TentaPractice\TentaPractice\obj\Debug\netcoreapp1.1\TentaPractice.pdb

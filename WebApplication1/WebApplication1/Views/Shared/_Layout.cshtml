@@ -1,0 +1,22 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <h1>Acme</h1>
+    <div>
+        <a asp-controller="bands" asp-action="index">All Bands</a>
+        <a asp-controller="bands" asp-action="create">Create a new band</a>
+    </div>
+    <div style="background-color:#ccc">
+        @RenderBody()
+    </div>
+    <footer>
+        &copy; Acme 2017
+    </footer>
+    @RenderSection("scripts", false)
+</body>
+</html>

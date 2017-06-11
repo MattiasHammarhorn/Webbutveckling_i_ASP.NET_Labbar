@@ -1,0 +1,9 @@
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_1_Repeat\GroupAssignment_1_Repeat\bin\Debug\netcoreapp1.1\GroupAssignment_1_Repeat.deps.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_1_Repeat\GroupAssignment_1_Repeat\bin\Debug\netcoreapp1.1\GroupAssignment_1_Repeat.runtimeconfig.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_1_Repeat\GroupAssignment_1_Repeat\bin\Debug\netcoreapp1.1\GroupAssignment_1_Repeat.runtimeconfig.dev.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_1_Repeat\GroupAssignment_1_Repeat\bin\Debug\netcoreapp1.1\GroupAssignment_1_Repeat.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_1_Repeat\GroupAssignment_1_Repeat\bin\Debug\netcoreapp1.1\GroupAssignment_1_Repeat.pdb
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_1_Repeat\GroupAssignment_1_Repeat\obj\Debug\netcoreapp1.1\GroupAssignment_1_Repeat.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_1_Repeat\GroupAssignment_1_Repeat\obj\Debug\netcoreapp1.1\GroupAssignment_1_Repeat.AssemblyInfo.cs
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_1_Repeat\GroupAssignment_1_Repeat\obj\Debug\netcoreapp1.1\GroupAssignment_1_Repeat.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_1_Repeat\GroupAssignment_1_Repeat\obj\Debug\netcoreapp1.1\GroupAssignment_1_Repeat.pdb

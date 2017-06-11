@@ -1,0 +1,9 @@
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_7\GroupAssignment_7\bin\Debug\netcoreapp1.1\GroupAssignment_7.deps.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_7\GroupAssignment_7\bin\Debug\netcoreapp1.1\GroupAssignment_7.runtimeconfig.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_7\GroupAssignment_7\bin\Debug\netcoreapp1.1\GroupAssignment_7.runtimeconfig.dev.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_7\GroupAssignment_7\bin\Debug\netcoreapp1.1\GroupAssignment_7.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_7\GroupAssignment_7\bin\Debug\netcoreapp1.1\GroupAssignment_7.pdb
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_7\GroupAssignment_7\obj\Debug\netcoreapp1.1\GroupAssignment_7.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_7\GroupAssignment_7\obj\Debug\netcoreapp1.1\GroupAssignment_7.AssemblyInfo.cs
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_7\GroupAssignment_7\obj\Debug\netcoreapp1.1\GroupAssignment_7.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\GroupAssignment_7\GroupAssignment_7\obj\Debug\netcoreapp1.1\GroupAssignment_7.pdb

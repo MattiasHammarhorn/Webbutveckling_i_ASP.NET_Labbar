@@ -1,0 +1,19 @@
+﻿@model TentaPractice.Models.CatsIndexVM[]
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cats Index</title>
+</head>
+<body>
+    <h1>Cats</h1>
+    @foreach (var item in Model)
+    {
+        @item.Name
+        if (item.IsAggresive)
+        {
+            <b>Aggresive!</b>
+        }
+        <br />
+    }
+</body>
+</html>

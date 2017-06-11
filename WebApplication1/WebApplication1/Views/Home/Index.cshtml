@@ -1,0 +1,16 @@
+﻿@using WebApplication1.Models
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome</title>
+</head>
+<body>
+    <h1>Welcome</h1>
+    <ul>
+        @foreach (Band band in ViewBag.Bands)
+        {
+            <li>@band.Name</li>
+        }
+    </ul>
+</body>
+</html>

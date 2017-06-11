@@ -1,0 +1,9 @@
+c:\users\pontu\documents\visual studio 2017\Projects\AuthDemo\AuthDemo\bin\Debug\netcoreapp1.1\AuthDemo.deps.json
+c:\users\pontu\documents\visual studio 2017\Projects\AuthDemo\AuthDemo\bin\Debug\netcoreapp1.1\AuthDemo.runtimeconfig.json
+c:\users\pontu\documents\visual studio 2017\Projects\AuthDemo\AuthDemo\bin\Debug\netcoreapp1.1\AuthDemo.runtimeconfig.dev.json
+c:\users\pontu\documents\visual studio 2017\Projects\AuthDemo\AuthDemo\bin\Debug\netcoreapp1.1\AuthDemo.dll
+c:\users\pontu\documents\visual studio 2017\Projects\AuthDemo\AuthDemo\bin\Debug\netcoreapp1.1\AuthDemo.pdb
+c:\users\pontu\documents\visual studio 2017\Projects\AuthDemo\AuthDemo\obj\Debug\netcoreapp1.1\AuthDemo.csprojResolveAssemblyReference.cache
+c:\users\pontu\documents\visual studio 2017\Projects\AuthDemo\AuthDemo\obj\Debug\netcoreapp1.1\AuthDemo.AssemblyInfo.cs
+c:\users\pontu\documents\visual studio 2017\Projects\AuthDemo\AuthDemo\obj\Debug\netcoreapp1.1\AuthDemo.dll
+c:\users\pontu\documents\visual studio 2017\Projects\AuthDemo\AuthDemo\obj\Debug\netcoreapp1.1\AuthDemo.pdb

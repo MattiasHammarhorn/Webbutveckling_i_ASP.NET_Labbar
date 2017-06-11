@@ -1,0 +1,31 @@
+﻿@using TentaPractice.Models
+@model CatsCreateVM
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Create Cats</title>
+</head>
+<body>
+    <h1>New Cat</h1>
+    <form asp-controller="cats" asp-action="create">
+        <label asp-for="Name"></label>
+        <br />
+        <input asp-for="Name">
+        <span asp-validation-for="Name"></span>
+        <br />
+        <label asp-for="Anger"></label>
+        <br />
+        <input asp-for="Anger">
+        <span asp-validation-for="Anger"></span>
+        <br />
+        <label asp-for="Weight"></label>
+        <br />
+        <input asp-for="Weight">
+        <span asp-validation-for="Weight"></span>
+        <br />
+        <br />
+        <input type="submit" value="Create" />
+    </form>
+</body>
+</html>

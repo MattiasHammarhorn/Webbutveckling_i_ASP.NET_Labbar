@@ -1,0 +1,31 @@
+﻿@using GroupAssignment_Cookies.Models;
+@model UserLoginVM
+@addTagHelper"*, Microsoft.AspNetCore.Mvc.TagHelpers"
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cookies Index</title>
+</head>
+<body>
+    <h1>Cookies Index</h1>
+    <form asp-action="index" asp-controller="cookies">
+        <label asp-for="Username"></label>
+        <br>
+        <input asp-for="Username">
+        <br>
+        <span asp-validation-for="Username"></span>
+        <br>
+        <label asp-for="Password"></label>
+        <br>
+        <input asp-for="Password">
+        <br>
+        <span asp-validation-for="Password"></span>
+        <br>
+        <label asp-for="StoreCookiesAsPersistentOrNonPersisent"></label>
+        <br>
+        <input asp-for="StoreCookiesAsPersistentOrNonPersisent">
+        <br>
+        <input type="submit" value="post">
+    </form>
+</body>
+</html>

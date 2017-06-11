@@ -1,0 +1,19 @@
+﻿@model ComputersIndexVM[]
+<h1>Hem ljuva Alabama</h1>
+<hr />
+<a href="~/computers/create">Create computer</a>
+<br />
+<h1>@TempData["SuccessfulCreationMessage"]</h1>
+@foreach(var item in Model)
+{
+    <ul>
+        <li>Fabrikat: @item.Manufacturer</li>
+        <li>Pris: @item.Price</li>
+        @if (item.Functioning)
+        {
+            <li>Status-symbol</li>
+        }
+        <li><a asp-controller="computers" asp-action="edit" asp-route-id="@item.Id">Edit</a></li>
+    </ul>
+}
+<br />

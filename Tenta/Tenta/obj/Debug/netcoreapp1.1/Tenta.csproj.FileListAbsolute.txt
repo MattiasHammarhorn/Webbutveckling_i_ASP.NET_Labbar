@@ -1,0 +1,18 @@
+C:\Users\niclas\documents\visual studio 2017\Projects\Tenta\Tenta\bin\Debug\netcoreapp1.1\Tenta.deps.json
+C:\Users\niclas\documents\visual studio 2017\Projects\Tenta\Tenta\bin\Debug\netcoreapp1.1\Tenta.runtimeconfig.json
+C:\Users\niclas\documents\visual studio 2017\Projects\Tenta\Tenta\bin\Debug\netcoreapp1.1\Tenta.runtimeconfig.dev.json
+C:\Users\niclas\documents\visual studio 2017\Projects\Tenta\Tenta\bin\Debug\netcoreapp1.1\Tenta.dll
+C:\Users\niclas\documents\visual studio 2017\Projects\Tenta\Tenta\obj\Debug\netcoreapp1.1\Tenta.csprojResolveAssemblyReference.cache
+C:\Users\niclas\documents\visual studio 2017\Projects\Tenta\Tenta\obj\Debug\netcoreapp1.1\Tenta.AssemblyInfo.cs
+C:\Users\niclas\documents\visual studio 2017\Projects\Tenta\Tenta\bin\Debug\netcoreapp1.1\Tenta.pdb
+C:\Users\niclas\documents\visual studio 2017\Projects\Tenta\Tenta\obj\Debug\netcoreapp1.1\Tenta.dll
+C:\Users\niclas\documents\visual studio 2017\Projects\Tenta\Tenta\obj\Debug\netcoreapp1.1\Tenta.pdb
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Tenta\Tenta\bin\Debug\netcoreapp1.1\Tenta.deps.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Tenta\Tenta\bin\Debug\netcoreapp1.1\Tenta.runtimeconfig.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Tenta\Tenta\bin\Debug\netcoreapp1.1\Tenta.runtimeconfig.dev.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Tenta\Tenta\bin\Debug\netcoreapp1.1\Tenta.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Tenta\Tenta\bin\Debug\netcoreapp1.1\Tenta.pdb
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Tenta\Tenta\obj\Debug\netcoreapp1.1\Tenta.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Tenta\Tenta\obj\Debug\netcoreapp1.1\Tenta.AssemblyInfo.cs
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Tenta\Tenta\obj\Debug\netcoreapp1.1\Tenta.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\Tenta\Tenta\obj\Debug\netcoreapp1.1\Tenta.pdb

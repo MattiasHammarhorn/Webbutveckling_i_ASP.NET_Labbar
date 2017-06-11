@@ -1,0 +1,28 @@
+﻿@model ComputerIndexVM[] 
+
+@{
+    ViewBag.Title = "Home";
+}
+
+@if (TempData["ConfirmationMsg"] != null)
+{
+    <h1 style="color:green;">@TempData["ConfirmationMsg"].ToString()</h1>
+}
+
+@foreach (ComputerIndexVM computer in Model)
+{
+    <div style="background-color:indianred; padding: 10px; border-radius:5px; color:white;">
+        <p><b>Namn:</b> @computer.Manufacturer</p>
+        <p><b>Pris:</b> @computer.Price</p>
+        @if (computer.IsExclusiveComputer)
+        {
+            <p style="color:lawngreen;">Its an exclusive computer!! Be careful with it!</p>
+        }
+        else
+        {
+            <p style="color:black;">Buy yourself a better computer, sucker!.</p>
+        }
+        <a asp-controller="computers" asp-action="edit" asp-route-id="@computer.Id">Edit</a>
+    </div>
+    <br />
+}

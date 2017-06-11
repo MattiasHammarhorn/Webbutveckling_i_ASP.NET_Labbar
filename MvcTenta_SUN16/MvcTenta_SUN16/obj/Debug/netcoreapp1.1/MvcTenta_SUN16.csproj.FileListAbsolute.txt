@@ -1,0 +1,9 @@
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\MvcTenta_SUN16\MvcTenta_SUN16\bin\Debug\netcoreapp1.1\MvcTenta_SUN16.deps.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\MvcTenta_SUN16\MvcTenta_SUN16\bin\Debug\netcoreapp1.1\MvcTenta_SUN16.runtimeconfig.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\MvcTenta_SUN16\MvcTenta_SUN16\bin\Debug\netcoreapp1.1\MvcTenta_SUN16.runtimeconfig.dev.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\MvcTenta_SUN16\MvcTenta_SUN16\bin\Debug\netcoreapp1.1\MvcTenta_SUN16.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\MvcTenta_SUN16\MvcTenta_SUN16\bin\Debug\netcoreapp1.1\MvcTenta_SUN16.pdb
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\MvcTenta_SUN16\MvcTenta_SUN16\obj\Debug\netcoreapp1.1\MvcTenta_SUN16.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\MvcTenta_SUN16\MvcTenta_SUN16\obj\Debug\netcoreapp1.1\MvcTenta_SUN16.AssemblyInfo.cs
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\MvcTenta_SUN16\MvcTenta_SUN16\obj\Debug\netcoreapp1.1\MvcTenta_SUN16.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\MvcTenta_SUN16\MvcTenta_SUN16\obj\Debug\netcoreapp1.1\MvcTenta_SUN16.pdb

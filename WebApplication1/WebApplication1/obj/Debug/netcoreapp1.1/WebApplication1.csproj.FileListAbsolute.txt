@@ -1,0 +1,20 @@
+c:\users\pontu\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\pontu\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\pontu\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.deps.json
+c:\users\pontu\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.json
+c:\users\pontu\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.dev.json
+c:\users\pontu\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.dll
+c:\users\pontu\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.pdb
+c:\users\pontu\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\pontu\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.AssemblyInfo.cs
+c:\users\pontu\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.dll
+c:\users\pontu\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.pdb
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.deps.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.pdb
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.dll
+C:\Users\Roger och Stina\Desktop\Webbutveckling i ASP.NET Labbar\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.pdb
